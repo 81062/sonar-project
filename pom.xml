@@ -45,6 +45,12 @@
         <name>example-repo-local</name>
         <url>https://cloudbinary.jfrog.io/artifactory/example-repo-local/</url>
     </repository>
+	<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>a0hpamxexhpkf-artifactory-primary-0-releases</name>
+        <url>https://santhoshdevops.jfrog.io/artifactory/libs-release</url>
+    </repository>
 </distributionManagement>
 
 	
